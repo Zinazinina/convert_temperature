@@ -33,3 +33,13 @@
    33  git status
    34  nano convert_temperature.py 
    35  history > CLI_History_GitWorkshop.txt
+   36  git add .
+   37  git status
+   38  git commit -m "Added CLI history for future reference. Changes were made in the convert temp. function to create more meaningful variable names."
+   39  git log
+   40  nano convert_temperature.py 
+   41  git status
+   42  git diff
+   43  git add convert_temperature.py 
+   44  git commit -m "Changed temp to temperature in variable names."
+   45  history > CLI_History_GitWorkshop.txt
