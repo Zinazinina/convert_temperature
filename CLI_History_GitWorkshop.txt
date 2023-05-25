@@ -43,3 +43,57 @@
    43  git add convert_temperature.py 
    44  git commit -m "Changed temp to temperature in variable names."
    45  history > CLI_History_GitWorkshop.txt
+   46  git diff
+   47  git add CLI_History_GitWorkshop.txt && git commit -m "Update CLI history file."
+   48  git log
+   49  git status
+   50  git log
+   51  git show HEAD
+   52  git show HEAD~2
+   53  git show HEAD~1
+   54  nano convert_temperature.py 
+   55  git status
+   56  git diff 
+   57  git diff HEAD~1
+   58  git add convert_temperature.py 
+   59  git status
+   60  git diff --staged
+   61  git diff HEAD~2
+   62  git status
+   63  git commit -m "Function documentation added in form of doc string."
+   64  git log
+   65  git log --oneline
+   66  nano convert_temperature.py 
+   67  git status
+   68  git resore convert_temperature.py
+   69  git restore convert_temperature.py
+   70  git status
+   71  nan
+   72  nano convert_temperature.py 
+   73  git diff
+   74  nano convert_temperature.py 
+   75  git add convert_temperature.py  && git commit -m "Intensional mistake."
+   76  git log --oneline
+   77  git show
+   78  git status
+   79  git log --oneline 
+   80  git show HEAD~1
+   81  git checkout HEAD~1 convert_temperature.py
+   82  git log
+   83  git log --oneline
+   84  git status
+   85  git commit -m "Checkout version with before mistake."
+   86  git log
+   87  cat convert_temperature.py 
+   88  git show HEAD~1
+   89  history >  CLI_History_GitWorkshop.txt 
+   90  git log --oneline
+   91  cd -
+   92  cd ..
+   93  touch datafile.dat
+   94  git status
+   95  touch binaryfile.txt
+   96  git status
+   97  nano .gitignore
+   98  git status
+   99  history > CLI_History_GitWorkshop.txt 

@@ -1,0 +1,8 @@
+# Ignore data files for simulation.
+datafile.dat
+
+# Ignore config text file.
+binaryfile.txt
+
+# Ignore results folder.
+results/
