@@ -1,0 +1,35 @@
+    1  pwd
+    2  conda activate
+    3  git --version
+    4  git config
+    5  git config add --name
+    6  git config --global user.name "Joshua Spaander"
+    7  git config --global user.email "josh.spaander@hotmail.com"
+    8  git config --list
+    9  mkdir convert_temperature
+   10  ls
+   11  cd convert_temperature/
+   12  git init
+   13  ls -a
+   14  cd .git/
+   15  ls
+   16  cd ..
+   17  git status
+   18  ls
+   19  nano convert_temperature.py
+   20  git status
+   21  git add convert_temperature.py 
+   22  git status
+   23  git commit -m "function to convert fahrenheit to celsius"
+   24  git status
+   25  ls
+   26  ls -a
+   27  ls -a .git/
+   28  git log
+   29  history > CLI_History_GitWorkshop.txt
+   30  ls
+   31  cat CLI_History_GitWorkshop.txt 
+   32  nano convert_temperature.py 
+   33  git status
+   34  nano convert_temperature.py 
+   35  history > CLI_History_GitWorkshop.txt
