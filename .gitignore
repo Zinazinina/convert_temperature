@@ -1,8 +1,12 @@
 # Ignore data files for simulation.
 datafile.dat
+*.dat
 
 # Ignore config text file.
 binaryfile.txt
 
 # Ignore results folder.
 results/
+
+# Ignore all file with a certain extension.
+*.O
