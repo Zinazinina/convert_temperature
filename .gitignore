@@ -10,3 +10,6 @@ results/
 
 # Ignore all file with a certain extension.
 *.O
+
+# Ignore CLI file
+CLI_History_GitWorkshop.txt
